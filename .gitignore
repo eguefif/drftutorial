@@ -1,5 +1,6 @@
 *.owp
 *.swo
+venv
 # Created by https://www.gitignore.io
 
 ### OSX ###
